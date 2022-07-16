@@ -1,9 +1,9 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/NgLamVN/AntiToolBox
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/kotyaralih/AntiToolbox
 build-by-default: true
 branches:
 - main
 projects:
-  AntiToolBox:
+  AntiToolbox:
     path: ""
     icon: icon.png
 ...
