@@ -1,6 +1,8 @@
-# AntiToolBox
-Prevent some toolbox client from join your server.
-# Warning !
-* This plugin can only block some Toolbox client or some other third party client. It may not work in some client and they can still join your server.
-* This plugin can only check client using AndroidOS !
+# AntiToolbox
+This plugin is a fork of [AntiToolbox](https://github.com/NgLam2911/AntiToolBox) by [NgLam2911](https://github.com/NgLam2911)
+
+This plugin prevents Toolbox clients from joining your server.
+# Warning!
+* This plugin can only block some Toolbox client or some other third party client. It may not work against some clients and they still can join your server.
+* This plugin is only checks Android players!
 * In some case, player still got kicked when using original minecraft client.

@@ -1,1 +1,4 @@
-kick-message: "Please use original client to join"
+---
+kick-message: "Toolbox is not allowed on this server."
+log-attempt: true
+...
