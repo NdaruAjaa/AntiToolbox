@@ -62,7 +62,7 @@ class Main extends PluginBase implements Listener
         $check = strtoupper($check);
         if ($check !== $model[0])
         {
-            $event->setKickReason(0, $this->config->get("kick-message"));
+            $event->setKickFlag(0, $this->config->get("kick-message"));
             if($this->getConfig()->get("log-attempt", true)) $this->log($player->getUsername(), $event->getIp(), $deviceModel, $extraData["DeviceId"]);
         }
     }
