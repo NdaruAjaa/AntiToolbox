@@ -1,6 +1,6 @@
 name: AntiToolbox
 main: kotyaralih\AntiToolbox\Main
 version: 1.0.0
-api: 4.0.0
+api: 5.0.0
 description: Somehow prevent players using Toolbox client from joining your server.
 author: [NgLamVN, kotyaralih]
