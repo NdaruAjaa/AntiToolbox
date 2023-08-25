@@ -1,4 +1,4 @@
 ---
 kick-message: "Toolbox is not allowed on this server."
-log-attempt: true
+log-attempt: true #true / false
 ...
